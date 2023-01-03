@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To Check the working
 
-Create a dotEnv file and add the following key-value pair:
+Create a .env file and add the following key-value pair:
 REACT_APP_API_KEY=1
